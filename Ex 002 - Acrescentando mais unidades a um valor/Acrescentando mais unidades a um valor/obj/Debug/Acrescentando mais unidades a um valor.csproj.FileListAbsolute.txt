@@ -1,0 +1,7 @@
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Acrescentando mais unidades a um valor\Acrescentando mais unidades a um valor\bin\Debug\Acrescentando mais unidades a um valor.exe.config
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Acrescentando mais unidades a um valor\Acrescentando mais unidades a um valor\bin\Debug\Acrescentando mais unidades a um valor.exe
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Acrescentando mais unidades a um valor\Acrescentando mais unidades a um valor\bin\Debug\Acrescentando mais unidades a um valor.pdb
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Acrescentando mais unidades a um valor\Acrescentando mais unidades a um valor\obj\Debug\Acrescentando mais unidades a um valor.csprojAssemblyReference.cache
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Acrescentando mais unidades a um valor\Acrescentando mais unidades a um valor\obj\Debug\Acrescentando mais unidades a um valor.csproj.CoreCompileInputs.cache
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Acrescentando mais unidades a um valor\Acrescentando mais unidades a um valor\obj\Debug\Acrescentando mais unidades a um valor.exe
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Acrescentando mais unidades a um valor\Acrescentando mais unidades a um valor\obj\Debug\Acrescentando mais unidades a um valor.pdb
