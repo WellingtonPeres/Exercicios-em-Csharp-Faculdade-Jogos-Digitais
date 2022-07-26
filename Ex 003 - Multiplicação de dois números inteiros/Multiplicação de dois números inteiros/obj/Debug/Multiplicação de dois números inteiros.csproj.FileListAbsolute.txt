@@ -1,0 +1,7 @@
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Multiplicação de dois números inteiros\Multiplicação de dois números inteiros\bin\Debug\Multiplicação de dois números inteiros.exe.config
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Multiplicação de dois números inteiros\Multiplicação de dois números inteiros\bin\Debug\Multiplicação de dois números inteiros.exe
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Multiplicação de dois números inteiros\Multiplicação de dois números inteiros\bin\Debug\Multiplicação de dois números inteiros.pdb
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Multiplicação de dois números inteiros\Multiplicação de dois números inteiros\obj\Debug\Multiplicação de dois números inteiros.csprojAssemblyReference.cache
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Multiplicação de dois números inteiros\Multiplicação de dois números inteiros\obj\Debug\Multiplicação de dois números inteiros.csproj.CoreCompileInputs.cache
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Multiplicação de dois números inteiros\Multiplicação de dois números inteiros\obj\Debug\Multiplicação de dois números inteiros.exe
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Multiplicação de dois números inteiros\Multiplicação de dois números inteiros\obj\Debug\Multiplicação de dois números inteiros.pdb
