@@ -1,0 +1,7 @@
+C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 009 - Número maior, menor ou igual 0\Ex 009 - Número maior, menor ou igual 0\bin\Debug\Ex 009 - Número maior, menor ou igual 0.exe.config
+C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 009 - Número maior, menor ou igual 0\Ex 009 - Número maior, menor ou igual 0\bin\Debug\Ex 009 - Número maior, menor ou igual 0.exe
+C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 009 - Número maior, menor ou igual 0\Ex 009 - Número maior, menor ou igual 0\bin\Debug\Ex 009 - Número maior, menor ou igual 0.pdb
+C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 009 - Número maior, menor ou igual 0\Ex 009 - Número maior, menor ou igual 0\obj\Debug\Ex 009 - Número maior, menor ou igual 0.csproj.AssemblyReference.cache
+C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 009 - Número maior, menor ou igual 0\Ex 009 - Número maior, menor ou igual 0\obj\Debug\Ex 009 - Número maior, menor ou igual 0.csproj.CoreCompileInputs.cache
+C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 009 - Número maior, menor ou igual 0\Ex 009 - Número maior, menor ou igual 0\obj\Debug\Ex 009 - Número maior, menor ou igual 0.exe
+C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 009 - Número maior, menor ou igual 0\Ex 009 - Número maior, menor ou igual 0\obj\Debug\Ex 009 - Número maior, menor ou igual 0.pdb
