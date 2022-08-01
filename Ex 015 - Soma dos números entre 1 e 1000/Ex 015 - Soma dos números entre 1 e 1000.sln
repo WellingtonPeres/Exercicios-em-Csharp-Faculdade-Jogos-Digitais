@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 015 - Soma dos números entre 1 e 1000", "Ex 015 - Soma dos números entre 1 e 1000\Ex 015 - Soma dos números entre 1 e 1000.csproj", "{C3B579F1-4D9E-4AF6-837B-9E74B0649911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B579F1-4D9E-4AF6-837B-9E74B0649911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B579F1-4D9E-4AF6-837B-9E74B0649911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B579F1-4D9E-4AF6-837B-9E74B0649911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B579F1-4D9E-4AF6-837B-9E74B0649911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61CBCFF0-452B-473C-8076-D2696C803737}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 015 - Soma dos números entre 1 e 1000\Ex 015 - Soma dos números entre 1 e 1000\bin\Debug\Ex 015 - Soma dos números entre 1 e 1000.exe.config
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 015 - Soma dos números entre 1 e 1000\Ex 015 - Soma dos números entre 1 e 1000\bin\Debug\Ex 015 - Soma dos números entre 1 e 1000.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 015 - Soma dos números entre 1 e 1000\Ex 015 - Soma dos números entre 1 e 1000\bin\Debug\Ex 015 - Soma dos números entre 1 e 1000.pdb
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 015 - Soma dos números entre 1 e 1000\Ex 015 - Soma dos números entre 1 e 1000\obj\Debug\Ex 015 - Soma dos números entre 1 e 1000.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 015 - Soma dos números entre 1 e 1000\Ex 015 - Soma dos números entre 1 e 1000\obj\Debug\Ex 015 - Soma dos números entre 1 e 1000.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 015 - Soma dos números entre 1 e 1000\Ex 015 - Soma dos números entre 1 e 1000\obj\Debug\Ex 015 - Soma dos números entre 1 e 1000.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 015 - Soma dos números entre 1 e 1000\Ex 015 - Soma dos números entre 1 e 1000\obj\Debug\Ex 015 - Soma dos números entre 1 e 1000.pdb
