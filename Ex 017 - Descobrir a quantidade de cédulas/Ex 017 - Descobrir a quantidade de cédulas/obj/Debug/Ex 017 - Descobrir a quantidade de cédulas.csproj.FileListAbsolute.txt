@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 017 - Descobrir a quantidade de cédulas\Ex 017 - Descobrir a quantidade de cédulas\bin\Debug\Ex 017 - Descobrir a quantidade de cédulas.exe.config
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 017 - Descobrir a quantidade de cédulas\Ex 017 - Descobrir a quantidade de cédulas\bin\Debug\Ex 017 - Descobrir a quantidade de cédulas.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 017 - Descobrir a quantidade de cédulas\Ex 017 - Descobrir a quantidade de cédulas\bin\Debug\Ex 017 - Descobrir a quantidade de cédulas.pdb
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 017 - Descobrir a quantidade de cédulas\Ex 017 - Descobrir a quantidade de cédulas\obj\Debug\Ex 017 - Descobrir a quantidade de cédulas.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 017 - Descobrir a quantidade de cédulas\Ex 017 - Descobrir a quantidade de cédulas\obj\Debug\Ex 017 - Descobrir a quantidade de cédulas.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 017 - Descobrir a quantidade de cédulas\Ex 017 - Descobrir a quantidade de cédulas\obj\Debug\Ex 017 - Descobrir a quantidade de cédulas.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 017 - Descobrir a quantidade de cédulas\Ex 017 - Descobrir a quantidade de cédulas\obj\Debug\Ex 017 - Descobrir a quantidade de cédulas.pdb
