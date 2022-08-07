@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 018 - Informar quantidade de ímpares\Ex 018 - Informar quantidade de ímpares\bin\Debug\Ex 018 - Informar quantidade de ímpares.exe.config
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 018 - Informar quantidade de ímpares\Ex 018 - Informar quantidade de ímpares\bin\Debug\Ex 018 - Informar quantidade de ímpares.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 018 - Informar quantidade de ímpares\Ex 018 - Informar quantidade de ímpares\bin\Debug\Ex 018 - Informar quantidade de ímpares.pdb
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 018 - Informar quantidade de ímpares\Ex 018 - Informar quantidade de ímpares\obj\Debug\Ex 018 - Informar quantidade de ímpares.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 018 - Informar quantidade de ímpares\Ex 018 - Informar quantidade de ímpares\obj\Debug\Ex 018 - Informar quantidade de ímpares.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 018 - Informar quantidade de ímpares\Ex 018 - Informar quantidade de ímpares\obj\Debug\Ex 018 - Informar quantidade de ímpares.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 018 - Informar quantidade de ímpares\Ex 018 - Informar quantidade de ímpares\obj\Debug\Ex 018 - Informar quantidade de ímpares.pdb
