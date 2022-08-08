@@ -1,0 +1,7 @@
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 001 - Olá Mundo\Olá Mundo\bin\Debug\Olá Mundo.exe.config
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 001 - Olá Mundo\Olá Mundo\bin\Debug\Olá Mundo.exe
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 001 - Olá Mundo\Olá Mundo\bin\Debug\Olá Mundo.pdb
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 001 - Olá Mundo\Olá Mundo\obj\Debug\Olá Mundo.csprojAssemblyReference.cache
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 001 - Olá Mundo\Olá Mundo\obj\Debug\Olá Mundo.csproj.CoreCompileInputs.cache
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 001 - Olá Mundo\Olá Mundo\obj\Debug\Olá Mundo.exe
+C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 001 - Olá Mundo\Olá Mundo\obj\Debug\Olá Mundo.pdb
