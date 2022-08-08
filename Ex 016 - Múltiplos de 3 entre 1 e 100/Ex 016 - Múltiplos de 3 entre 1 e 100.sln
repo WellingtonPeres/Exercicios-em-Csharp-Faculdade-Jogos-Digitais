@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 016 - Múltiplos de 3 entre 1 e 100", "Ex 016 - Múltiplos de 3 entre 1 e 100\Ex 016 - Múltiplos de 3 entre 1 e 100.csproj", "{D634F278-6C17-4CB1-8C9D-2C0EFCC7BDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D634F278-6C17-4CB1-8C9D-2C0EFCC7BDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D634F278-6C17-4CB1-8C9D-2C0EFCC7BDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D634F278-6C17-4CB1-8C9D-2C0EFCC7BDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D634F278-6C17-4CB1-8C9D-2C0EFCC7BDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2927C0B2-35E9-4A72-B247-458C17C14876}
+	EndGlobalSection
+EndGlobal
