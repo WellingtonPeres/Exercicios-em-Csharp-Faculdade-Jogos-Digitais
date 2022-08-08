@@ -1,7 +1,0 @@
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 012 - Tem idade para votar\Ex 012 - Tem idade para votar\bin\Debug\Ex 012 - Tem idade para votar.exe.config
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 012 - Tem idade para votar\Ex 012 - Tem idade para votar\bin\Debug\Ex 012 - Tem idade para votar.exe
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 012 - Tem idade para votar\Ex 012 - Tem idade para votar\bin\Debug\Ex 012 - Tem idade para votar.pdb
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 012 - Tem idade para votar\Ex 012 - Tem idade para votar\obj\Debug\Ex 012 - Tem idade para votar.csproj.AssemblyReference.cache
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 012 - Tem idade para votar\Ex 012 - Tem idade para votar\obj\Debug\Ex 012 - Tem idade para votar.csproj.CoreCompileInputs.cache
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 012 - Tem idade para votar\Ex 012 - Tem idade para votar\obj\Debug\Ex 012 - Tem idade para votar.exe
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 012 - Tem idade para votar\Ex 012 - Tem idade para votar\obj\Debug\Ex 012 - Tem idade para votar.pdb

@@ -1,7 +1,0 @@
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 010 - Qual estado o time pertence\Ex 010 - Qual estado o time pertence\bin\Debug\Ex 010 - Qual estado o time pertence.exe.config
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 010 - Qual estado o time pertence\Ex 010 - Qual estado o time pertence\bin\Debug\Ex 010 - Qual estado o time pertence.exe
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 010 - Qual estado o time pertence\Ex 010 - Qual estado o time pertence\bin\Debug\Ex 010 - Qual estado o time pertence.pdb
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 010 - Qual estado o time pertence\Ex 010 - Qual estado o time pertence\obj\Debug\Ex 010 - Qual estado o time pertence.csproj.AssemblyReference.cache
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 010 - Qual estado o time pertence\Ex 010 - Qual estado o time pertence\obj\Debug\Ex 010 - Qual estado o time pertence.csproj.CoreCompileInputs.cache
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 010 - Qual estado o time pertence\Ex 010 - Qual estado o time pertence\obj\Debug\Ex 010 - Qual estado o time pertence.exe
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 010 - Qual estado o time pertence\Ex 010 - Qual estado o time pertence\obj\Debug\Ex 010 - Qual estado o time pertence.pdb

@@ -1,7 +1,0 @@
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 004 - Média aritmética de 4 notas\Ex 004 - Média aritmética de 4 notas\bin\Debug\Ex 004 - Média aritmética de 4 notas.exe.config
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 004 - Média aritmética de 4 notas\Ex 004 - Média aritmética de 4 notas\bin\Debug\Ex 004 - Média aritmética de 4 notas.exe
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 004 - Média aritmética de 4 notas\Ex 004 - Média aritmética de 4 notas\bin\Debug\Ex 004 - Média aritmética de 4 notas.pdb
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 004 - Média aritmética de 4 notas\Ex 004 - Média aritmética de 4 notas\obj\Debug\Ex 004 - Média aritmética de 4 notas.csprojAssemblyReference.cache
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 004 - Média aritmética de 4 notas\Ex 004 - Média aritmética de 4 notas\obj\Debug\Ex 004 - Média aritmética de 4 notas.csproj.CoreCompileInputs.cache
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 004 - Média aritmética de 4 notas\Ex 004 - Média aritmética de 4 notas\obj\Debug\Ex 004 - Média aritmética de 4 notas.exe
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 004 - Média aritmética de 4 notas\Ex 004 - Média aritmética de 4 notas\obj\Debug\Ex 004 - Média aritmética de 4 notas.pdb

@@ -1,7 +1,0 @@
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 016 - Múltiplos de 3 entre 1 e 100\Ex 016 - Múltiplos de 3 entre 1 e 100\bin\Debug\Ex 016 - Múltiplos de 3 entre 1 e 100.exe.config
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 016 - Múltiplos de 3 entre 1 e 100\Ex 016 - Múltiplos de 3 entre 1 e 100\bin\Debug\Ex 016 - Múltiplos de 3 entre 1 e 100.exe
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 016 - Múltiplos de 3 entre 1 e 100\Ex 016 - Múltiplos de 3 entre 1 e 100\bin\Debug\Ex 016 - Múltiplos de 3 entre 1 e 100.pdb
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 016 - Múltiplos de 3 entre 1 e 100\Ex 016 - Múltiplos de 3 entre 1 e 100\obj\Debug\Ex 016 - Múltiplos de 3 entre 1 e 100.csproj.AssemblyReference.cache
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 016 - Múltiplos de 3 entre 1 e 100\Ex 016 - Múltiplos de 3 entre 1 e 100\obj\Debug\Ex 016 - Múltiplos de 3 entre 1 e 100.csproj.CoreCompileInputs.cache
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 016 - Múltiplos de 3 entre 1 e 100\Ex 016 - Múltiplos de 3 entre 1 e 100\obj\Debug\Ex 016 - Múltiplos de 3 entre 1 e 100.exe
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 016 - Múltiplos de 3 entre 1 e 100\Ex 016 - Múltiplos de 3 entre 1 e 100\obj\Debug\Ex 016 - Múltiplos de 3 entre 1 e 100.pdb

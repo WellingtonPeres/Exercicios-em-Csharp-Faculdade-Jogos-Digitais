@@ -1,7 +1,0 @@
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 007 - Divisão de dois inteiros\Ex 007 - Divisão de dois inteiros\bin\Debug\Ex 007 - Divisão de dois inteiros.exe.config
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 007 - Divisão de dois inteiros\Ex 007 - Divisão de dois inteiros\bin\Debug\Ex 007 - Divisão de dois inteiros.exe
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 007 - Divisão de dois inteiros\Ex 007 - Divisão de dois inteiros\bin\Debug\Ex 007 - Divisão de dois inteiros.pdb
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 007 - Divisão de dois inteiros\Ex 007 - Divisão de dois inteiros\obj\Debug\Ex 007 - Divisão de dois inteiros.csproj.AssemblyReference.cache
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 007 - Divisão de dois inteiros\Ex 007 - Divisão de dois inteiros\obj\Debug\Ex 007 - Divisão de dois inteiros.csproj.CoreCompileInputs.cache
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 007 - Divisão de dois inteiros\Ex 007 - Divisão de dois inteiros\obj\Debug\Ex 007 - Divisão de dois inteiros.exe
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 007 - Divisão de dois inteiros\Ex 007 - Divisão de dois inteiros\obj\Debug\Ex 007 - Divisão de dois inteiros.pdb

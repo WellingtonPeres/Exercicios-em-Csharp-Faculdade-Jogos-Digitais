@@ -1,7 +1,0 @@
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 011 - Média entre 5 números\Ex 011 - Média entre 5 números\bin\Debug\Ex 011 - Média entre 5 números.exe.config
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 011 - Média entre 5 números\Ex 011 - Média entre 5 números\bin\Debug\Ex 011 - Média entre 5 números.exe
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 011 - Média entre 5 números\Ex 011 - Média entre 5 números\bin\Debug\Ex 011 - Média entre 5 números.pdb
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 011 - Média entre 5 números\Ex 011 - Média entre 5 números\obj\Debug\Ex 011 - Média entre 5 números.csproj.AssemblyReference.cache
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 011 - Média entre 5 números\Ex 011 - Média entre 5 números\obj\Debug\Ex 011 - Média entre 5 números.csproj.CoreCompileInputs.cache
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 011 - Média entre 5 números\Ex 011 - Média entre 5 números\obj\Debug\Ex 011 - Média entre 5 números.exe
-C:\Users\Pc\Documents\GitHub\Exercicios em Csharp Faculdade Jogos\Ex 011 - Média entre 5 números\Ex 011 - Média entre 5 números\obj\Debug\Ex 011 - Média entre 5 números.pdb

@@ -1,7 +1,0 @@
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 008 - Calcular o valor do bônus\Ex 008 - Calcular o valor do bônus\bin\Debug\Ex 008 - Calcular o valor do bônus.exe.config
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 008 - Calcular o valor do bônus\Ex 008 - Calcular o valor do bônus\bin\Debug\Ex 008 - Calcular o valor do bônus.exe
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 008 - Calcular o valor do bônus\Ex 008 - Calcular o valor do bônus\bin\Debug\Ex 008 - Calcular o valor do bônus.pdb
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 008 - Calcular o valor do bônus\Ex 008 - Calcular o valor do bônus\obj\Debug\Ex 008 - Calcular o valor do bônus.csproj.AssemblyReference.cache
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 008 - Calcular o valor do bônus\Ex 008 - Calcular o valor do bônus\obj\Debug\Ex 008 - Calcular o valor do bônus.csproj.CoreCompileInputs.cache
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 008 - Calcular o valor do bônus\Ex 008 - Calcular o valor do bônus\obj\Debug\Ex 008 - Calcular o valor do bônus.exe
-C:\Users\welli\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 008 - Calcular o valor do bônus\Ex 008 - Calcular o valor do bônus\obj\Debug\Ex 008 - Calcular o valor do bônus.pdb

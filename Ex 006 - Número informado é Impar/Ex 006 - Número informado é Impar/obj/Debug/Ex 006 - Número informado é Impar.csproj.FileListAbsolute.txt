@@ -1,7 +1,0 @@
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 006 - Número informado é Impar\Ex 006 - Número informado é Impar\bin\Debug\Ex 006 - Número informado é Impar.exe.config
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 006 - Número informado é Impar\Ex 006 - Número informado é Impar\bin\Debug\Ex 006 - Número informado é Impar.exe
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 006 - Número informado é Impar\Ex 006 - Número informado é Impar\bin\Debug\Ex 006 - Número informado é Impar.pdb
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 006 - Número informado é Impar\Ex 006 - Número informado é Impar\obj\Debug\Ex 006 - Número informado é Impar.csprojAssemblyReference.cache
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 006 - Número informado é Impar\Ex 006 - Número informado é Impar\obj\Debug\Ex 006 - Número informado é Impar.csproj.CoreCompileInputs.cache
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 006 - Número informado é Impar\Ex 006 - Número informado é Impar\obj\Debug\Ex 006 - Número informado é Impar.exe
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 006 - Número informado é Impar\Ex 006 - Número informado é Impar\obj\Debug\Ex 006 - Número informado é Impar.pdb

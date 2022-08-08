@@ -1,7 +1,0 @@
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 014 - Imprimir inteiros de um intervalo\Ex 014 - Imprimir inteiros de um intervalo\bin\Debug\Ex 014 - Imprimir inteiros de um intervalo.exe.config
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 014 - Imprimir inteiros de um intervalo\Ex 014 - Imprimir inteiros de um intervalo\bin\Debug\Ex 014 - Imprimir inteiros de um intervalo.exe
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 014 - Imprimir inteiros de um intervalo\Ex 014 - Imprimir inteiros de um intervalo\bin\Debug\Ex 014 - Imprimir inteiros de um intervalo.pdb
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 014 - Imprimir inteiros de um intervalo\Ex 014 - Imprimir inteiros de um intervalo\obj\Debug\Ex 014 - Imprimir inteiros de um intervalo.csproj.AssemblyReference.cache
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 014 - Imprimir inteiros de um intervalo\Ex 014 - Imprimir inteiros de um intervalo\obj\Debug\Ex 014 - Imprimir inteiros de um intervalo.csproj.CoreCompileInputs.cache
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 014 - Imprimir inteiros de um intervalo\Ex 014 - Imprimir inteiros de um intervalo\obj\Debug\Ex 014 - Imprimir inteiros de um intervalo.exe
-C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 014 - Imprimir inteiros de um intervalo\Ex 014 - Imprimir inteiros de um intervalo\obj\Debug\Ex 014 - Imprimir inteiros de um intervalo.pdb

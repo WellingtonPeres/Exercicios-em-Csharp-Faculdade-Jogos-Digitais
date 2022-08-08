@@ -1,7 +1,0 @@
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 005 - Área do círculo\Ex 005 - Área do círculo\bin\Debug\Ex 005 - Área do círculo.exe.config
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 005 - Área do círculo\Ex 005 - Área do círculo\bin\Debug\Ex 005 - Área do círculo.exe
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 005 - Área do círculo\Ex 005 - Área do círculo\bin\Debug\Ex 005 - Área do círculo.pdb
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 005 - Área do círculo\Ex 005 - Área do círculo\obj\Debug\Ex 005 - Área do círculo.csprojAssemblyReference.cache
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 005 - Área do círculo\Ex 005 - Área do círculo\obj\Debug\Ex 005 - Área do círculo.csproj.CoreCompileInputs.cache
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 005 - Área do círculo\Ex 005 - Área do círculo\obj\Debug\Ex 005 - Área do círculo.exe
-C:\Users\55619\source\repos\Exercicios-em-Csharp-Faculdade-Jogos\Ex 005 - Área do círculo\Ex 005 - Área do círculo\obj\Debug\Ex 005 - Área do círculo.pdb
