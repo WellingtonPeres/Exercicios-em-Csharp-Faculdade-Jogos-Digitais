@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 020 - Acessar os elementos de uma array\Ex 020 - Acessar os elementos de uma array\bin\Debug\Ex 020 - Acessar os elementos de uma array.exe.config
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 020 - Acessar os elementos de uma array\Ex 020 - Acessar os elementos de uma array\bin\Debug\Ex 020 - Acessar os elementos de uma array.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 020 - Acessar os elementos de uma array\Ex 020 - Acessar os elementos de uma array\bin\Debug\Ex 020 - Acessar os elementos de uma array.pdb
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 020 - Acessar os elementos de uma array\Ex 020 - Acessar os elementos de uma array\obj\Debug\Ex 020 - Acessar os elementos de uma array.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 020 - Acessar os elementos de uma array\Ex 020 - Acessar os elementos de uma array\obj\Debug\Ex 020 - Acessar os elementos de uma array.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 020 - Acessar os elementos de uma array\Ex 020 - Acessar os elementos de uma array\obj\Debug\Ex 020 - Acessar os elementos de uma array.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 020 - Acessar os elementos de uma array\Ex 020 - Acessar os elementos de uma array\obj\Debug\Ex 020 - Acessar os elementos de uma array.pdb
