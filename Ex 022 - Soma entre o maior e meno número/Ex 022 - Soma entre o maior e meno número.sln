@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 022 - Soma entre o maior e meno número", "Ex 022 - Soma entre o maior e meno número\Ex 022 - Soma entre o maior e meno número.csproj", "{A76C450B-96AE-4278-B96F-5F369B7D18E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76C450B-96AE-4278-B96F-5F369B7D18E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76C450B-96AE-4278-B96F-5F369B7D18E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76C450B-96AE-4278-B96F-5F369B7D18E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76C450B-96AE-4278-B96F-5F369B7D18E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B70AEC-EBF1-4BCC-B6E3-4BDC8E586F0C}
+	EndGlobalSection
+EndGlobal
