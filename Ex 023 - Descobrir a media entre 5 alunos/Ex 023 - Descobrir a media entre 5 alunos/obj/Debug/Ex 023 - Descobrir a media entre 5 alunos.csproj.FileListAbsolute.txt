@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Ex 023 - Descobrir a media entre 5 alunos\Ex 023 - Descobrir a media entre 5 alunos\bin\Debug\Ex 023 - Descobrir a media entre 5 alunos.exe.config
+C:\Users\Pc\Desktop\Ex 023 - Descobrir a media entre 5 alunos\Ex 023 - Descobrir a media entre 5 alunos\bin\Debug\Ex 023 - Descobrir a media entre 5 alunos.exe
+C:\Users\Pc\Desktop\Ex 023 - Descobrir a media entre 5 alunos\Ex 023 - Descobrir a media entre 5 alunos\bin\Debug\Ex 023 - Descobrir a media entre 5 alunos.pdb
+C:\Users\Pc\Desktop\Ex 023 - Descobrir a media entre 5 alunos\Ex 023 - Descobrir a media entre 5 alunos\obj\Debug\Ex 023 - Descobrir a media entre 5 alunos.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Ex 023 - Descobrir a media entre 5 alunos\Ex 023 - Descobrir a media entre 5 alunos\obj\Debug\Ex 023 - Descobrir a media entre 5 alunos.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Ex 023 - Descobrir a media entre 5 alunos\Ex 023 - Descobrir a media entre 5 alunos\obj\Debug\Ex 023 - Descobrir a media entre 5 alunos.exe
+C:\Users\Pc\Desktop\Ex 023 - Descobrir a media entre 5 alunos\Ex 023 - Descobrir a media entre 5 alunos\obj\Debug\Ex 023 - Descobrir a media entre 5 alunos.pdb
