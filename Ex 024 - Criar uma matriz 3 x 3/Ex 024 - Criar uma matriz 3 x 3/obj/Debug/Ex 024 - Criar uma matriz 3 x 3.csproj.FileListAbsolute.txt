@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 024 - Criar uma matriz 3 x 3\Ex 024 - Criar uma matriz 3 x 3\bin\Debug\Ex 024 - Criar uma matriz 3 x 3.exe.config
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 024 - Criar uma matriz 3 x 3\Ex 024 - Criar uma matriz 3 x 3\bin\Debug\Ex 024 - Criar uma matriz 3 x 3.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 024 - Criar uma matriz 3 x 3\Ex 024 - Criar uma matriz 3 x 3\bin\Debug\Ex 024 - Criar uma matriz 3 x 3.pdb
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 024 - Criar uma matriz 3 x 3\Ex 024 - Criar uma matriz 3 x 3\obj\Debug\Ex 024 - Criar uma matriz 3 x 3.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 024 - Criar uma matriz 3 x 3\Ex 024 - Criar uma matriz 3 x 3\obj\Debug\Ex 024 - Criar uma matriz 3 x 3.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 024 - Criar uma matriz 3 x 3\Ex 024 - Criar uma matriz 3 x 3\obj\Debug\Ex 024 - Criar uma matriz 3 x 3.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 024 - Criar uma matriz 3 x 3\Ex 024 - Criar uma matriz 3 x 3\obj\Debug\Ex 024 - Criar uma matriz 3 x 3.pdb
