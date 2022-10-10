@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Ex 027 - Experimentar os métodos da lista\Ex 027 - Experimentar os métodos da lista\bin\Debug\Ex 027 - Experimentar os métodos da lista.exe.config
+C:\Users\Pc\Desktop\Ex 027 - Experimentar os métodos da lista\Ex 027 - Experimentar os métodos da lista\bin\Debug\Ex 027 - Experimentar os métodos da lista.exe
+C:\Users\Pc\Desktop\Ex 027 - Experimentar os métodos da lista\Ex 027 - Experimentar os métodos da lista\bin\Debug\Ex 027 - Experimentar os métodos da lista.pdb
+C:\Users\Pc\Desktop\Ex 027 - Experimentar os métodos da lista\Ex 027 - Experimentar os métodos da lista\obj\Debug\Ex 027 - Experimentar os métodos da lista.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Ex 027 - Experimentar os métodos da lista\Ex 027 - Experimentar os métodos da lista\obj\Debug\Ex 027 - Experimentar os métodos da lista.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Ex 027 - Experimentar os métodos da lista\Ex 027 - Experimentar os métodos da lista\obj\Debug\Ex 027 - Experimentar os métodos da lista.exe
+C:\Users\Pc\Desktop\Ex 027 - Experimentar os métodos da lista\Ex 027 - Experimentar os métodos da lista\obj\Debug\Ex 027 - Experimentar os métodos da lista.pdb
