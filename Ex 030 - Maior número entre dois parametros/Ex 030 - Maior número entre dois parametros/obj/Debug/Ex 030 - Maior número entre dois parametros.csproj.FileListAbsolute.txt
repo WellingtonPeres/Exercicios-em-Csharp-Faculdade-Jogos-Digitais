@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 030 - Maior número entre dois parametros\Ex 030 - Maior número entre dois parametros\bin\Debug\Ex 030 - Maior número entre dois parametros.exe.config
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 030 - Maior número entre dois parametros\Ex 030 - Maior número entre dois parametros\bin\Debug\Ex 030 - Maior número entre dois parametros.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 030 - Maior número entre dois parametros\Ex 030 - Maior número entre dois parametros\bin\Debug\Ex 030 - Maior número entre dois parametros.pdb
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 030 - Maior número entre dois parametros\Ex 030 - Maior número entre dois parametros\obj\Debug\Ex 030 - Maior número entre dois parametros.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 030 - Maior número entre dois parametros\Ex 030 - Maior número entre dois parametros\obj\Debug\Ex 030 - Maior número entre dois parametros.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 030 - Maior número entre dois parametros\Ex 030 - Maior número entre dois parametros\obj\Debug\Ex 030 - Maior número entre dois parametros.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 030 - Maior número entre dois parametros\Ex 030 - Maior número entre dois parametros\obj\Debug\Ex 030 - Maior número entre dois parametros.pdb
