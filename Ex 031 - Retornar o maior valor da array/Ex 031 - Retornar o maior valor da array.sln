@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 031 - Retornar o maior valor da array", "Ex 031 - Retornar o maior valor da array\Ex 031 - Retornar o maior valor da array.csproj", "{50672889-D224-4C63-A82B-0FC320AB23ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50672889-D224-4C63-A82B-0FC320AB23ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50672889-D224-4C63-A82B-0FC320AB23ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50672889-D224-4C63-A82B-0FC320AB23ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50672889-D224-4C63-A82B-0FC320AB23ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B42C672A-E202-437F-8FF8-41464DF2FC54}
+	EndGlobalSection
+EndGlobal

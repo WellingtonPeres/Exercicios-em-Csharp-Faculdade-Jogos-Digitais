@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 031 - Retornar o maior valor da array\Ex 031 - Retornar o maior valor da array\bin\Debug\Ex 031 - Retornar o maior valor da array.exe.config
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 031 - Retornar o maior valor da array\Ex 031 - Retornar o maior valor da array\bin\Debug\Ex 031 - Retornar o maior valor da array.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 031 - Retornar o maior valor da array\Ex 031 - Retornar o maior valor da array\bin\Debug\Ex 031 - Retornar o maior valor da array.pdb
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 031 - Retornar o maior valor da array\Ex 031 - Retornar o maior valor da array\obj\Debug\Ex 031 - Retornar o maior valor da array.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 031 - Retornar o maior valor da array\Ex 031 - Retornar o maior valor da array\obj\Debug\Ex 031 - Retornar o maior valor da array.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 031 - Retornar o maior valor da array\Ex 031 - Retornar o maior valor da array\obj\Debug\Ex 031 - Retornar o maior valor da array.exe
+C:\Users\Pc\Desktop\Atividade de programaçãopara gravar - Organizado\Ex 031 - Retornar o maior valor da array\Ex 031 - Retornar o maior valor da array\obj\Debug\Ex 031 - Retornar o maior valor da array.pdb
